@@ -1,0 +1,79 @@
+.fonte_menu{
+    font-size: 15px;
+    margin-left: 3px;
+}
+body{
+    background-color: #fff !important;
+}
+.borda_inferior{
+    border-bottom: 3px solid #bbb;
+    padding-top: 7px;
+}
+.corh5{
+    color: #bbb;
+}
+.conteudo{
+    width: 730px;
+}
+.corforte{
+    color:purple;
+}
+.quadrante{
+    border: 3px solid #bbb;
+    padding: 7px;
+    border-radius: 10px;
+}
+.leftside{
+    background-color: #fff;
+}
+.background_cabecalho{
+    background-color: #fff;
+}
+.Google_News{
+    width: 100px;
+    height: auto;
+    padding-left: -45px;
+}
+.noticia{
+    margin-bottom: 25px !important;
+}
+.bi-list{
+    padding-left: -55px;
+}
+.height60{
+    height: 60px;
+}
+.inputsearch{
+    width: 705px;
+    background-color: #fff;   
+}
+input::placeholder {
+    color: #bbb;
+    z-index: 200;
+    padding-left: 30px;
+}
+.Lupa_Pesquisa{
+    margin-right: -25px;
+    z-index: 120;
+}
+.height700 {
+    height: 700px;
+    background-color: #fff;
+}
+.Messi{
+    width: 108px;
+    height: 114px;
+    margin-right: 3px;
+}
+.Ver_Mais{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: -85px;
+    font-size: 12px;
+}
+.Perfil_Google{
+    margin-right: -75px;
+}
+.bgd{
+    text-shadow: rgb(255, 0, 255);
+}
